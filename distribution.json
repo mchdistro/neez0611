@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "neez0611-1.21.10",
+      "id": "EnderDragonRaid-1.21.10",
       "name": "엔더켠왕",
       "description": "Minecraft 1.21.10 (Fabric v0.18.4)",
       "icon": "https://github.com/mchdistro/neez0611/raw/main/server-icon.png",
@@ -131,12 +131,22 @@
           ]
         },
         {
+          "id": "kr.shihyeon:blurserveraddress:1.2.0+mc1.21.6@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11149,
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.6.jar",
+            "MD5": "11b966766f29acff4b77263be4bcaf68"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.138.4+1.21.10@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
             "size": 2375888,
-            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/neez0611-1.21.10/fabricmods/required/fabric-api-0.138.4+1.21.10.jar",
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/fabricmods/required/fabric-api-0.138.4+1.21.10.jar",
             "MD5": "c9ebf1b300d813310d18115a7cc03f99"
           }
         },
@@ -146,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8991344,
-            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/neez0611-1.21.10/fabricmods/required/GT-DonationAPI-fabric-1.21.10-2.0.7.jar",
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/fabricmods/required/GT-DonationAPI-fabric-1.21.10-2.0.7.jar",
             "MD5": "72668844f181aefd94d68d4b9bae65a7"
           }
         },
@@ -156,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 109904,
-            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/neez0611-1.21.10/fabricmods/required/gtnick-fabric-1.21.10-2.0.4.jar",
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/fabricmods/required/gtnick-fabric-1.21.10-2.0.4.jar",
             "MD5": "93db50e7d1a893df9efb1cb4b232fff4"
           }
         },
@@ -166,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2717422,
-            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/neez0611-1.21.10/fabricmods/required/iris-fabric-1.9.7+mc1.21.10.jar",
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/fabricmods/required/iris-fabric-1.9.7+mc1.21.10.jar",
             "MD5": "7d2bf05890132d821ae1c09458aac654"
           }
         },
@@ -176,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3609586,
-            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/neez0611-1.21.10/fabricmods/required/journeymap-fabric-1.21.10-6.0.0-beta.54.jar",
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/fabricmods/required/journeymap-fabric-1.21.10-6.0.0-beta.54.jar",
             "MD5": "dd31566084dca5a025f32f8d6bd1017d"
           }
         },
@@ -186,8 +196,60 @@
           "type": "FabricMod",
           "artifact": {
             "size": 643844,
-            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/neez0611-1.21.10/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.10.jar",
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.10.jar",
             "MD5": "cfbc70556d4db63ccc24f167a1eb3a75"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.7.3+mc1.21.10@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1676903,
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/fabricmods/required/sodium-fabric-0.7.3+mc1.21.10.jar",
+            "MD5": "57a54742a51ae95bdc47e83f7245a9e2"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/files/servers.dat",
+            "MD5": "97e2937f9f9632fd9e2790660d4bb6ed",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.6.1.zip",
+          "name": "ComplementaryUnbound_r5.6.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 500699,
+            "url": "https://github.com/mchdistro/neez0611/raw/main/servers/EnderDragonRaid-1.21.10/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "MD5": "3f83f81df2ad4608d830017425b45bac",
+            "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
           }
         }
       ]
