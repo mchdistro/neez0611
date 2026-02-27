@@ -6525,9 +6525,9 @@
           "name": "title_screen_layout_2.txt",
           "type": "File",
           "artifact": {
-            "size": 50724,
+            "size": 40492,
             "url": "https://cdn.mc.gotiger.dev/neez0611/servers/neez0611-1.20.1/files/config/fancymenu/customization/title_screen_layout_2.txt",
-            "MD5": "b519a87a6351a4376bee8f269c13c92a",
+            "MD5": "3b87d6bba2dfd6b231b5162b5ef50232",
             "path": "config/fancymenu/customization/title_screen_layout_2.txt"
           }
         },
