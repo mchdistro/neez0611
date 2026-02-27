@@ -1,10 +1,10 @@
 {
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/neez0611/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "0.0.2",
+    "version": "1.0.0",
     "name": "15dayz",
     "description": "Minecraft 1.20.1 (Forge v47.4.0)",
-    "icon": "https://github.com/mchdistro/neez0611/raw/main/icon.png",
+    "icon": "https://github.com/mchdistro/neez0611/raw/main/15dayz.png",
     "address": "mc.gotiger.dev:20050",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

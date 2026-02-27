@@ -11,8 +11,8 @@
       "id": "neez0611-1.20.1",
       "name": "15dayz",
       "description": "Minecraft 1.20.1 (Forge v47.4.0)",
-      "icon": "https://github.com/mchdistro/neez0611/raw/main/icon.png",
-      "version": "0.0.2",
+      "icon": "https://github.com/mchdistro/neez0611/raw/main/15dayz.png",
+      "version": "1.0.0",
       "address": "mc.gotiger.dev:20050",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -10100,9 +10100,9 @@
           "name": "oculus.properties",
           "type": "File",
           "artifact": {
-            "size": 279,
+            "size": 299,
             "url": "https://cdn.mc.gotiger.dev/neez0611/servers/neez0611-1.20.1/files/config/oculus.properties",
-            "MD5": "294127c1734870301519e1a723fddab1",
+            "MD5": "60ac99f3ba2196ee7b76d0955539ab54",
             "path": "config/oculus.properties"
           }
         },
