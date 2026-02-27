@@ -10,7 +10,7 @@
     {
       "id": "neez0611-1.20.1",
       "name": "15dayz",
-      "description": "Minecraft 1.20.1 (Forge v47.4.16)",
+      "description": "Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/mchdistro/neez0611/raw/main/icon.png",
       "version": "1.0.0",
       "address": "mc.gotiger.dev:20050",
@@ -39,83 +39,83 @@
       },
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.16",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7393,
-            "MD5": "eef5a959280fbbbfcaa20e71a1f21f47",
-            "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.16/lowcodelanguage-1.20.1-47.4.16.jar"
+            "size": 7399,
+            "MD5": "a839d5603a05491f84f6c36284ab0ea8",
+            "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.4.16",
+              "id": "1.20.1-47.4.0",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16559,
-                "MD5": "0209821dfee7da8866d879bae8a48c45",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/versions/1.20.1-forge-47.4.16/1.20.1-forge-47.4.16.json"
+                "size": 16980,
+                "MD5": "ea6f1fdaeb3aa0a765200b57d75c0c1b",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/versions/1.20.1-forge-47.4.0/1.20.1-forge-47.4.0.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.16",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.0",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118907,
-                "MD5": "a3c587d8de59520103fffa5d389a37e0",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.16/fmlcore-1.20.1-47.4.16.jar"
+                "size": 118914,
+                "MD5": "bc798cdec9ec7eeb3354b550d5e67652",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.16",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.0",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16849,
-                "MD5": "8621fbf34f936765341b673b6cd766d4",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.16/javafmllanguage-1.20.1-47.4.16.jar"
+                "size": 16855,
+                "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.16",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.0",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4993,
-                "MD5": "04824559b568359bc1f13e7747c92102",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.16/mclanguage-1.20.1-47.4.16.jar"
+                "size": 4998,
+                "MD5": "cd3d6af64b394583aa83090915469f9e",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.16:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.0:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2507137,
-                "MD5": "4f50127e5e1c8a73a48efc1564cf0998",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/forge/1.20.1-47.4.16/forge-1.20.1-47.4.16-universal.jar"
+                "size": 2776081,
+                "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.16:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.0:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4848917,
-                "MD5": "a653895344f94e59c864480cda1031d1",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/forge/1.20.1-47.4.16/forge-1.20.1-47.4.16-client.jar"
+                "size": 4826828,
+                "MD5": "1940b09c4b066287963bde17aa375cec",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
               },
               "subModules": []
             },
@@ -166,53 +166,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.8",
+              "id": "org.ow2.asm:asm:9.7.1",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 126113,
-                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.8",
+              "id": "org.ow2.asm:asm-commons:9.7.1",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73498,
-                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.8",
+              "id": "org.ow2.asm:asm-tree:9.7.1",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51934,
-                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.8",
+              "id": "org.ow2.asm:asm-util:9.7.1",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 94559,
-                "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.8",
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 35151,
-                "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -236,13 +236,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:eventbus:6.2.33",
+              "id": "net.minecraftforge:eventbus:6.0.5",
               "name": "Minecraft Forge (eventbus)",
               "type": "Library",
               "artifact": {
-                "size": 64014,
-                "MD5": "0b419ea48f46de30ee4e6241e4fdf9d4",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/eventbus/6.2.33/eventbus-6.2.33.jar"
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -426,23 +426,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.16",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.0",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 269260,
-                "MD5": "5f1fcafc3cd40bbac360316491d8acc7",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.16/fmlloader-1.20.1-47.4.16.jar"
+                "size": 267079,
+                "MD5": "5b26aba9f44796d54094022c1e73a49e",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.16",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.0",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170511,
-                "MD5": "b41388809b3ecd36f3f607116bf6d6ec",
-                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.16/fmlearlydisplay-1.20.1-47.4.16.jar"
+                "size": 170517,
+                "MD5": "68747d96f635b0a0dc9e070d3596a562",
+                "url": "https://cdn.mc.gotiger.dev/neez0611/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
               }
             }
           ]
