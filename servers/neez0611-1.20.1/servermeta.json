@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/neez0611/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "15dayz",
     "description": "Minecraft 1.20.1 (Forge v47.4.0)",
     "icon": "https://github.com/mchdistro/neez0611/raw/main/icon.png",
