@@ -3,9 +3,6 @@ type = customizablemenus
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-net.minecraft.client.gui.screens.TitleScreen {
-}
-
 net.minecraft.client.gui.screens.ConnectScreen {
 }
 
@@ -19,5 +16,8 @@ net.minecraft.client.gui.screens.LevelLoadingScreen {
 }
 
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
 }
 
