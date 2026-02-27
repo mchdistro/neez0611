@@ -46,7 +46,7 @@ renderClouds:"true"
 resourcePacks:["vanilla","tacz_resources","mod_resources","Moonlight Mods Dynamic Assets","fabric","hordes-config","file/1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip","file/Itsme64\u0027s no potion particles.zip","file/LAP_1.20.1_0.5CSM.zip","file/TZP_1.20.1_2.7.zip","file/§6No Enchant Glint 1.20.1.zip","file/Deceasedcraft Screen Tweak 1.20.1.zip","file/MandalasGUI+Dakmode_1.20.1.zip","file/Lopy-Create-Pipez.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books"]
 incompatibleResourcePacks:["hordes-config"]
 lastServer:localhost
-lang:en_us
+lang:ko_kr
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
@@ -388,8 +388,8 @@ key_key.refinedstorageaddons.openWirelessCraftingGrid:key.keyboard.g:CONTROL
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
-soundCategory_master:0.20727700745033112
-soundCategory_music:1.0
+soundCategory_master:0.2
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

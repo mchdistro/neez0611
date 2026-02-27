@@ -1,9 +1,0 @@
-{
-  "mobNames": [
-    "hordes:zombie_player",
-    "hordes:husk_player",
-    "hordes:drowned_player",
-    "customnpcs:customnpc"
-  ],
-  "persistenceEnablers": []
-}
