@@ -14,7 +14,7 @@
     "mainServer": true,
     "autoconnect": true,
     "javaOptions": {
-      "supported": "=>21",
+      "supported": "=21",
       "suggestedMajor": 21,
       "platformOptions": [
         {
