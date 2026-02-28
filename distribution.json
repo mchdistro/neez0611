@@ -14278,7 +14278,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 18203,
+            "size": 18249,
             "url": "https://cdn.mc.gotiger.dev/neez0611/servers/15dayz-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -14325,6 +14325,17 @@
             "url": "https://cdn.mc.gotiger.dev/neez0611/servers/15dayz-1.20.1/files/resourcepacks/Deceasedcraft%20Screen%20Tweak%201.20.1.zip",
             "MD5": "baf58c7ab6bf279e98a98159775dcdf7",
             "path": "resourcepacks/Deceasedcraft Screen Tweak 1.20.1.zip"
+          }
+        },
+        {
+          "id": "deceasedcraft_5.10.15_resourcepack.zip",
+          "name": "deceasedcraft_5.10.15_resourcepack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 810934,
+            "url": "https://cdn.mc.gotiger.dev/neez0611/servers/15dayz-1.20.1/files/resourcepacks/deceasedcraft_5.10.15_resourcepack.zip",
+            "MD5": "fe71f3654eb3575dd0ec5a6f2a4198bb",
+            "path": "resourcepacks/deceasedcraft_5.10.15_resourcepack.zip"
           }
         },
         {

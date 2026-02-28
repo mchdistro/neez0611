@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","tacz_resources","mod_resources","Moonlight Mods Dynamic Assets","fabric","hordes-config","file/1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip","file/Itsme64\u0027s no potion particles.zip","file/LAP_1.20.1_0.5CSM.zip","file/TZP_1.20.1_2.7.zip","file/§6No Enchant Glint 1.20.1.zip","file/Deceasedcraft Screen Tweak 1.20.1.zip","file/MandalasGUI+Dakmode_1.20.1.zip","file/Lopy-Create-Pipez.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books"]
+resourcePacks:["vanilla","tacz_resources","mod_resources","Moonlight Mods Dynamic Assets","fabric","hordes-config","file/1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip","file/Itsme64\u0027s no potion particles.zip","file/LAP_1.20.1_0.5CSM.zip","file/TZP_1.20.1_2.7.zip","file/§6No Enchant Glint 1.20.1.zip","file/Deceasedcraft Screen Tweak 1.20.1.zip","file/MandalasGUI+Dakmode_1.20.1.zip","file/Lopy-Create-Pipez.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/deceasedcraft_5.10.15_resourcepack.zip"]
 incompatibleResourcePacks:["hordes-config"]
 lastServer:localhost
 lang:ko_kr
