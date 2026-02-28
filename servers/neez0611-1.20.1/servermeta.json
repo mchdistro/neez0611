@@ -35,7 +35,13 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt"]
+      "patterns": [
+        "options.txt",
+        "shaderpacks/**.txt",
+        "defaultconfigs/**/**.**",
+        "customnpcs/**/**.**",
+        "config/**/**.**"
+      ]
     }
   ]
 }
