@@ -2216,6 +2216,26 @@
           }
         },
         {
+          "id": "com.gitter.gtdonationapi.forge.v1_20_1.client:gtdonationapi:2.0.7@jar",
+          "name": "GT-DonationAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7315387,
+            "url": "https://cdn.mc.gotiger.dev/neez0611/servers/15dayz-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.7.jar",
+            "MD5": "9b4bf31f6284e8d9fd1614f5e43de3df"
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GTNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 134322,
+            "url": "https://cdn.mc.gotiger.dev/neez0611/servers/15dayz-1.20.1/forgemods/required/gtnick-forge-both-1.20.1-2.0.4.jar",
+            "MD5": "0fb4d1b2792d2191410988715227941e"
+          }
+        },
+        {
           "id": "mod.cdv.gdb:gundb:2.0.3@jar",
           "name": "Gun Durability",
           "type": "ForgeMod",
