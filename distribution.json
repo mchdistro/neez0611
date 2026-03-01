@@ -2467,6 +2467,16 @@
           }
         },
         {
+          "id": "com.pocky.inv:inv_logger:1.20.1-1.2.1@jar",
+          "name": "Inventory Logger",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23358,
+            "url": "https://cdn.mc.gotiger.dev/neez0611/servers/15dayz-1.20.1/forgemods/required/InventoryLogger-1.20.1-1.2.1.jar",
+            "MD5": "2e956cad176608951b6503663d31f990"
+          }
+        },
+        {
           "id": "com.keerdm:item_scrapper:1.2.9@jar",
           "name": "Item Scrapper",
           "type": "ForgeMod",
